@@ -1,0 +1,6 @@
+{
+  "routes": {
+    "/ElectroBlocks": {},
+    "/ElectroBlocks/new-section": {}
+  }
+}
